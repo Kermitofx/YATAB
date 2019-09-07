@@ -1,1 +1,1 @@
-web: python3 "yatab.py" 
+web: python3 "config.py" 
