@@ -7,7 +7,7 @@ from modules.commands.help import help
 from modules.onjoin.notasciiname import no_ascii_name
 from modules.onjoin.nobots import nobots
 
-TOKEN=''
+TOKEN='956323132:AAFNbsMRCfMgHzUBqKw_9pADJVvHiK44siE'
 WHITELIST = []
 
 #commands
