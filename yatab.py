@@ -34,8 +34,7 @@ def main():
     bot = telegram.Bot(TOKEN)
 
     # Create the EventHandler and pass it your bot's token.
-    updater = Updater(TOKEN)
-
+   
     # Get the dispatcher to register handlers
     #bot.GetUpdate()
     dp = updater.dispatcher
